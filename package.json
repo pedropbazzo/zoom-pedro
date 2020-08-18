@@ -27,7 +27,8 @@
   "license": "MIT",
   "dependencies": {
     "react": "^16.3.0",
-    "react-dom": "^16.3.0"
+    "react-dom": "^16.3.0",
+    "react-simple-image-zoom": "^0.1.5"
   },
   "devDependencies": {
     "@types/node": "^9.6.1",
